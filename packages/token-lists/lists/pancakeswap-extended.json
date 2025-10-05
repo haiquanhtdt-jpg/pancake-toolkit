@@ -2340,5 +2340,14 @@
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x1D229B958D5DDFca92146585a8711aECbE56F095.png"
     }
+,
+{
+  "name": "Kotora",
+  "symbol": "KOTORA",
+  "address": "0xb46e7084B51cb6a4E210e7C62edB2824450feA5D",
+  "chainId": 56,
+  "decimals": 18,
+  "logoURI": "https://i.imgur.com/abc123.png"
+}
   ]
 }
